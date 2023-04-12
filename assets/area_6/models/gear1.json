@@ -1,5 +1,5 @@
 {
-	"parent":"item/handheld",
+	"parent":"minecraft:brick",
 	"textures":{
 		"layer0":"area6_gear1"
 	}
