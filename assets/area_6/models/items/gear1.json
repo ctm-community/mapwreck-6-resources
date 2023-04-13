@@ -1,6 +1,6 @@
 {
 	"parent":"minecraft:brick",
 	"textures":{
-		"layer0":"area6_gear1"
+		"layer0":"area6:gear_1"
 	}
 }
