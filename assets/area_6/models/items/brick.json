@@ -5,6 +5,6 @@
 	},
 	"overrides":[
 	{"predicate":{"custom_model_data":6001},"model":"area_6:item/gear1"},
-	{"predicate":{"custom_model_data":6002},"model":"area_6:item/gear2"}
+	{"predicate":{"custom_model_data":6002},"model":"area_6:item/gear2"}]
 }
 	
