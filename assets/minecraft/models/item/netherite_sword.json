@@ -5,6 +5,6 @@
     },
 
     "overrides": [
-        {"predicate": {"custom_model_data": 1401}, "model": "area_14:katana"}
+        {"predicate": {"custom_model_data": 1401}, "model": "area_14:netherite_katana"}
     ]
 }

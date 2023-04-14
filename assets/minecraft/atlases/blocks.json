@@ -246,7 +246,15 @@
         },
         {
             "type": "single",
-            "resource": "area_14:katana"
+            "resource": "area_14:iron_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:diamond_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:netherite_katana"
         },
         {
             "type": "single",
