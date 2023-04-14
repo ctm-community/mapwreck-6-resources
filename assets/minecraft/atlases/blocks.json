@@ -246,6 +246,14 @@
         },
         {
             "type": "single",
+            "resource": "area_14:katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:shikigami"
+        },
+        {
+            "type": "single",
             "resource": "delta:transparent"
         },
         {
