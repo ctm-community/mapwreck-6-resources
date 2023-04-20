@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=18,berries=false" : {
+      "model": "area_0:blocks/vines/middle_unlit"
+    },
+    "age=18,berries=true" : {
+      "model": "area_0:blocks/vines/middle_lit"
+    },
+    "age=19,berries=false" : {
+      "model": "area_0:blocks/vines/bottom_unlit"
+    },
+    "age=19,berries=true" : {
+      "model": "area_0:blocks/vines/bottom_lit"
+    }
+  }
+}

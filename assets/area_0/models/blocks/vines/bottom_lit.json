@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "area_0:blocks/vines/bottom_lit"
+  }
+}

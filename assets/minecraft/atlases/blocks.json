@@ -14,6 +14,10 @@
         },
         {
             "type": "single",
+            "resource": "area_0:panda_guts"
+        },
+        {
+            "type": "single",
             "resource": "area_0:ppg_filler"
         },
         {
@@ -71,6 +75,22 @@
         {
             "type": "single",
             "resource": "area_0:blocks/lapis_ore/crag"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/vines/bottom_lit"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/vines/bottom_unlit"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/vines/middle_lit"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/vines/middle_unlit"
         },
         {
             "type": "single",
@@ -226,15 +246,39 @@
         },
         {
             "type": "single",
+            "resource": "area_14:amulet"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:diamond_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:iron_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:netherite_katana"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:sensu"
+        },
+        {
+            "type": "single",
+            "resource": "area_14:shikigami"
+        },
+        {
+            "type": "single",
+            "resource": "area_6:baguette"
+        },
+        {
+            "type": "single",
             "resource": "area_6:gear_1"
         },
         {
             "type": "single",
             "resource": "area_6:gear_2"
-        },
-		{
-            "type": "single",
-            "resource": "area_6:baguette"
         },
         {
             "type": "single",
@@ -251,30 +295,6 @@
         {
             "type": "single",
             "resource": "area_9:feathered_serpent_tail"
-        },
-        {
-            "type": "single",
-            "resource": "area_14:iron_katana"
-        },
-        {
-            "type": "single",
-            "resource": "area_14:diamond_katana"
-        },
-        {
-            "type": "single",
-            "resource": "area_14:netherite_katana"
-        },
-        {
-            "type": "single",
-            "resource": "area_14:shikigami"
-        },
-        {
-            "type": "single",
-            "resource": "area_14:amulet"
-        },
-        {
-            "type": "single",
-            "resource": "area_14:sensu"
         },
         {
             "type": "single",

@@ -7,6 +7,7 @@
 	"overrides": [	
 		{"predicate": {"custom_model_data":5301}, "model": "area_0:butterfly/low"},
 		{"predicate": {"custom_model_data":5302}, "model": "area_0:butterfly/med"},
-		{"predicate": {"custom_model_data":5303}, "model": "area_0:butterfly/high"}
+		{"predicate": {"custom_model_data":5303}, "model": "area_0:butterfly/high"},
+		{"predicate": {"custom_model_data":5304}, "model": "area_0:panda_guts"}
 	]
 }
