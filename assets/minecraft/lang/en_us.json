@@ -26,6 +26,7 @@
 
   "block.minecraft.mud": "Muck",
   "block.minecraft.red_sand": "Crumbling Corrupted Chunk",
+  "block.minecraft.gray_terracotta": "Cracked Quartz Bricks",
   
   "death.attack.moo": "%1$s got hacked on",
   "death.attack.worm": "%1$s got wormed",
