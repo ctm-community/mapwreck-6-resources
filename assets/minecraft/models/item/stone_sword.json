@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld",
+    "overrides": [
+        {"predicate":{"custom_model_data":343406}, "model":"area_10:2"},
+        {"predicate":{"custom_model_data":343412}, "model":"area_10:10"},
+        {"predicate":{"custom_model_data":343415}, "model":"area_10:12"}
+    ],
+    "textures": {
+        "layer0": "minecraft:item/stone_sword"
+    }
+}

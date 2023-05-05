@@ -87,8 +87,8 @@
 		{"predicate": {"custom_model_data":14}, "model": "minecraft:block/green_wool"},
 		{"predicate": {"custom_model_data":15}, "model": "minecraft:block/red_wool"},
 		{"predicate": {"custom_model_data":16}, "model": "minecraft:block/black_wool"},
-		{"predicate": {"custom_model_data":5301}, "model": "area_0:items/juan"}
+		{"predicate": {"custom_model_data":5301}, "model": "area_0:items/juan"},
 		
-		
+		{"predicate":{"custom_model_data":343409}, "model":"area_10:3"}
 	]
 }

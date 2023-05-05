@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/soul_lantern"
+  },
+  "overrides": [
+    {"predicate":{"custom_model_data":343407}, "model":"area_10:8"}
+  ] 
+}

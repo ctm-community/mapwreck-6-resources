@@ -6,6 +6,7 @@
 
     "overrides": [
         {"predicate": {"custom_model_data": 1401}, "model": "area_14:iron_katana"},
-        {"predicate": {"custom_model_data": 1402}, "model": "area_14:sensu"}
+        {"predicate": {"custom_model_data": 1402}, "model": "area_14:sensu"},
+        {"predicate":{"custom_model_data":343410}, "model":"area_10:6"}
     ]
 }

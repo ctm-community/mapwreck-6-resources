@@ -234,6 +234,62 @@
         },
         {
             "type": "single",
+            "resource": "area_10:2"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:3"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:4"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:5"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:6"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:7"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:8"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:9"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:10"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:11"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:12"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:13"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:14"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:15"
+        },
+        {
+            "type": "single",
             "resource": "area_12:gtomat"
         },
         {
@@ -243,6 +299,10 @@
         {
             "type": "single",
             "resource": "area_12:tomat"
+        },
+        {
+            "type": "single",
+            "resource": "area_12:tomatsword"
         },
         {
             "type": "single",

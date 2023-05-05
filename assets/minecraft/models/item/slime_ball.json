@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/slime_ball"
+    },
+	
+	"overrides": [
+        {"predicate": {"custom_model_data":343416}, "model": "area_10:13" }	
+	]
+}
