@@ -31,9 +31,9 @@
   "death.attack.moo": "%1$s got hacked on",
   "death.attack.worm": "%1$s got wormed",
   "death.attack.worm.player": "%1$s got wormed",
-  "death.attack.parrot_suck": "%1$s sacraficed themselves to the divebomb gods",
+  "death.attack.parrot_suck": "%1$s sacraficed themselves to the divebomb parrot in the sky",
   "death.attack.pufferfish_blow": "%1$s got afflicted with too many diseases",
-  "death.attack.wither_water": "%1$s become one with the mind",
+  "death.attack.wither_water": "%1$s became one with the mind",
 
   "soundCategory.ambient": "Custom Music",
   "block.minecraft.mangrove_propagule": "Mangrove Propagule - Makes crops depending on age"
