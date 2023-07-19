@@ -102,11 +102,35 @@
         },
         {
             "type": "single",
+            "resource": "area_0:items/apotheosis"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/devils_advocate"
+        },
+        {
+            "type": "single",
             "resource": "area_0:items/favor"
         },
         {
             "type": "single",
             "resource": "area_0:items/juan"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/lei_axe"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/shiv_fire"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/shiv_spark"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:items/shiv_wind"
         },
         {
             "type": "single",
@@ -238,6 +262,30 @@
         },
         {
             "type": "single",
+            "resource": "area_10:10"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:11"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:12"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:13"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:14"
+        },
+        {
+            "type": "single",
+            "resource": "area_10:15"
+        },
+        {
+            "type": "single",
             "resource": "area_10:2"
         },
         {
@@ -267,30 +315,6 @@
         {
             "type": "single",
             "resource": "area_10:9"
-        },
-        {
-            "type": "single",
-            "resource": "area_10:10"
-        },
-        {
-            "type": "single",
-            "resource": "area_10:11"
-        },
-        {
-            "type": "single",
-            "resource": "area_10:12"
-        },
-        {
-            "type": "single",
-            "resource": "area_10:13"
-        },
-        {
-            "type": "single",
-            "resource": "area_10:14"
-        },
-        {
-            "type": "single",
-            "resource": "area_10:15"
         },
         {
             "type": "single",

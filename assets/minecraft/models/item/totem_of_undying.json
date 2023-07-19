@@ -4,6 +4,7 @@
 	   "layer0":"item/totem_of_undying"
 	},
 	"overrides":[
-		{"predicate":{"custom_model_data":343408}, "model":"area_10:15"}
+		{"predicate":{"custom_model_data":343408}, "model":"area_10:15"},
+		{"predicate":{"custom_model_data":1}, "model":"area_0:items/devils_advocate"}
 	]
  }

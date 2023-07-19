@@ -5,8 +5,11 @@
     },
 
     "overrides": [
-        {"predicate": {"custom_model_data": 1401}, "model": "area_14:iron_katana"},
-        {"predicate": {"custom_model_data": 1402}, "model": "area_14:sensu"},
-        {"predicate":{"custom_model_data":343410}, "model":"area_10:6"}
+		{"predicate": {"custom_model_data":1}, "model":"area_0:items/shiv_fire"},
+		{"predicate": {"custom_model_data":2}, "model":"area_0:items/shiv_wind"},
+		{"predicate": {"custom_model_data":3}, "model":"area_0:items/shiv_spark"},
+        {"predicate": {"custom_model_data":1401}, "model":"area_14:iron_katana"},
+        {"predicate": {"custom_model_data":1402}, "model":"area_14:sensu"},
+        {"predicate": {"custom_model_data":343410}, "model":"area_10:6"}
     ]
 }
