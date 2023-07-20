@@ -36,6 +36,7 @@
   "death.attack.parrot_suck": "%1$s sacraficed themselves to the divebomb parrot in the sky",
   "death.attack.pufferfish_blow": "%1$s got afflicted with too many diseases",
   "death.attack.wither_water": "%1$s became one with the mind",
+  "death.attack.wither_water.player": "%1$s became one with the mind",
   
   "block.minecraft.spawn.not_valid": "You have no bed, or it or a charon statue was obstructed",
 

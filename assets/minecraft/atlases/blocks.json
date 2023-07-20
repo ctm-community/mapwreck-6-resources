@@ -98,6 +98,10 @@
         },
         {
             "type": "single",
+            "resource": "area_0:blocks/error"
+        },
+        {
+            "type": "single",
             "resource": "area_0:butterfly"
         },
         {
@@ -155,10 +159,6 @@
         {
             "type": "single",
             "resource": "area_0:perk_bottles/designers"
-        },
-        {
-            "type": "single",
-            "resource": "area_0:perk_bottles/designer"
         },
         {
             "type": "single",
