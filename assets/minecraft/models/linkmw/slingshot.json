@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/linkmw/slingshot",
 	"textures": {
 		"0": "item/linkmw/slingshot",
 		"1": "item/linkmw/potatoblock",
